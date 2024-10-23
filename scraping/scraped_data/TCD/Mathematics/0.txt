@@ -1,0 +1,217 @@
+Header: Courses
+
+Header: Mathematics
+
+Header: Overview
+Text: Mathematics is a broad and diverse subject which is used to model, analyse and understand several applications in the physical and biological sciences, engineering, management science, economics and finance. Its numerous applications are naturally interwoven with the underlying theory which is essential in developing one’s logical reasoning, quantitative skills and problem-solving techniques.
+
+Header: What is Mathematics?
+Text: Mathematics is a broad and diverse subject which is used to model, analyse and understand several applications in the physical and biological sciences, engineering, management science, economics and finance. Its numerous applications are naturally interwoven with the underlying theory which is essential in developing one’s logical reasoning, quantitative skills and problem-solving techniques.
+
+Header: Do you enjoy…
+List:
+ - Working with numbers?
+ - Solving practical problems?
+ - Improving your analytical skills?
+
+Header: Mathematics: The course for you?
+Text: Mathematics is an excellent choice for anyone hoping to meet the demand for mathematics graduates in the job market, which values numeracy, ability in abstract reasoning and the skill to turn ideas into methods. If you have a natural ability in mathematics and are genuinely interested in applying mathematical solutions to problem solving, then this course will suit you well. It is also a great start for a career in actuarial work, finance or accounting, although these will require further training. The course has been successful over a long period in providing diverse career opportunities for many students.
+
+Header: Mathematics at Trinity
+Text: Trinity is justly proud of its long tradition of excellence in mathematics. Research interest in the School of Mathematics is enormously varied; ranging from the abstract ideas of modern algebra and analysis to practical ideas of numerical analysis, modelling and computer algorithms; the nature of fundamental particles and general relativity; nonlinear systems and fluid mechanics. This departmental diversity is reflected in the specialist degree-level courses available to students. With an academic staff that brings expertise and experience from many parts of the world, the course aims to be world class, with options for study and research in a wide range of mathematical areas.
+
+Header: Pathways
+Text: The pathways available are Single Honours, Major with Minor and Joint Honours. There may also be an opportunity to take this subject up as a New Minor Subject from second year.
+
+Header: Graduate skills and career opportunities
+Text: A degree in mathematics opens up the possibility of a career in a variety of industries and sectors. Graduates have found employment in computing, where mathematics skills have immediate and practical application. The financial services and internet security sectors are also common first destinations for graduates. Other options include statistics, teaching, accountancy, actuarial work, finance, and all areas of pure and applied mathematics. Many of these involve further study or intensive research in leading universities, including Cambridge, Oxford, and Imperial College London.
+
+Header: Your degree and what you’ll study
+Text: The programme is designed to provide a broad mathematical training that will allow you to work in any environment that requires strong numerical and logical skills.
+
+Header: First and second years
+Text: Students take common modules in order to develop their skills and overall background in calculus, linear and abstract algebra, and other related subjects. Although most of the first and second year modules are compulsory, students are also able to choose a few approved modules in areas such as probability, statistics and theoretical physics (as well as Trinity Electives during the second year).
+
+Header: Third and fourth years
+Text: Students choose their own modules and specialise in the areas they find most interesting and appealing. There is a broad selection of modules in pure mathematics, theoretical physics, statistics and computer science (as well as Trinity Electives during the third year).
+
+Header: Study abroad
+Text: Students may choose to spend their third year to study abroad at one of our partner universities as part of an exchange programme. In particular, some of our students have recently completed their third year of studies at the University of Durham (UK), Université Lille 1 (France), the University of California at Berkeley (USA), McGill University (Canada) and the University of Melbourne (Australia).
+
+Header: Trinity College Dublin and Columbia University Dual B.A. Programme
+Text: Mathematics is also available within the Dual B.A. Programme between Trinity College Dublin and Columbia University. Please note: The Dual B.A. is only open to Single Honours students. Joint Honours students cannot apply to the Dual B.A.. For more details, seehttps://tcd.gs.columbia.edu/
+
+Header: Study Maths at Trinity
+Text: This is a short lecture on Maths at Trinity College Dublin provided by Professor Paschalis Karageorgis.
+
+Header: Course Details
+Text: 
+
+Header: Awards
+Text: 
+
+Header: CAO Information
+Text: 
+
+Header: Number of Places
+Text: 
+
+Header: Course Director
+Text: 
+
+Header: Course Options
+Text: Mathematics is studied as a Single Honours subject (TR031) and as aJoint Honoursdegree.
+
+Header: Admission Requirements
+Text: Leaving Certificate:
+
+Header: Course Fees
+Text: Clickherefor a full list of undergraduate fees.
+
+Header: Apply
+Text: To apply to this course, click on the relevant Apply Link below
+
+Header: EU Applicants
+Text: Read the information abouthow to apply, then apply directly toCAO.
+
+Header: Non-EU Applicants
+List:
+ - Mathematics - 4 Years - Full-Time30/JUN/2024
+
+Header: Advanced Entry Applications
+Text: Read the information abouthow to applyfor Advanced Entry, then select the link below to apply.
+
+Header: Get in Touch
+Text: mathdep@maths.tcd.ie
+
+Header: Email
+Text: mathdep@maths.tcd.ie
+
+Header: Website
+Text: www.maths.tcd.ie/undergraduate
+
+Header: Register Your Interest
+Text: Register your interest in studying at Ireland’s leading university, Trinity College Dublin, the University of Dublin.
+
+Header: Trinity College Dublin, The University of Dublin
+
+Header: Trinity Search
+
+Header: Trinity Menu
+List:
+ - Faculties and Schools
+ - TrinityCourses
+ - TrinityResearch
+ - A–Z
+
+Header: School of Mathematics
+
+Header: Language
+Text: Gaeilge(Baile)
+
+Header: Moderatorship in Mathematics
+
+Header: Is this course for me?
+Text: The first two years of the course (the Fresh years) aim to provide students with the detailed background in
+algebra, analysis, mechanics, computation and statistics necessary for later years. There is no choice of modules
+in the first term (or semester) and limited choice in the second term of the Junior Fresh (or first) year and a somewhat greater choice in the Senior Fresh year.
+
+Header: Course overview
+Text: Special entrance requirement:H3 in Leaving Certificate Mathematics or equivalent.
+
+Header: Faculty of Science - Mathematics TR031
+Text: Special entrance requirement:H3 in Leaving Certificate Mathematics or equivalent.
+
+Header: Summary
+Text: A four year honors degree programme consisting entirely of modules in mathematics and mathematically related subjects. In the first two years students must obtain a broad knowledge of mathematics. In the final two years modules are chosen from a range of options in pure mathematics, applied mathematics, theoretical physics, computing, numerical analysis and statistics.
+
+Header: Course Objective
+Text: The mathematics programme in Trinity is designed to provide students with a broad mathematical training. This qualifies them for work or further study in almost any numerate or logical discipline. In particular the course is an excellent choice for those who wish to pursue a career in mathematical research/teaching at a university or other third-level institution.
+
+Header: Course Content
+Text: Students take modules in several main areas:
+
+Header: Course Assessment
+Text: Students are assessed by a combination of continuous assessment and end-of-semester examinations.
+Their Junior Sophister (third year) result counts for 30% of their overall degree mark, while their Senior Sophister
+(fourth year) result counts for 70%.
+
+Header: Career Opportunities
+Text: The wide range of modules on offer ensures a degree of flexibility which is of crucial importance in today's job market. Computing is one area in which mathematics graduates find that their skills have immediate and practical application. Typical other career options include statistics, teaching, accountancy, actuarial work, finance, and all areas of pure and applied mathematics. Many of these involve further study, at university or otherwise.
+
+Header: Course Modules
+Text: See the course modules
+
+Header: Learning outcomes
+Text: On successful completion of this programme, students should be able to:
+
+Header: Single Honor Mathematics Moderatorship
+Text: On successful completion of this programme, students should be able to:
+
+Header: Courses
+List:
+ - UndergraduateCourses & ModulesFoundation ScholarshipMinor in statisticsOnline timetablesPast modulesRegulationsProspective studentsJoint Honors MathematicsSingle Honors MathematicsTheoretical Physics
+ - Courses & Modules
+ - Foundation Scholarship
+ - Minor in statistics
+ - Online timetables
+ - Past modules
+ - Regulations
+ - Prospective studentsJoint Honors MathematicsSingle Honors MathematicsTheoretical Physics
+ - Joint Honors Mathematics
+ - Single Honors Mathematics
+ - Theoretical Physics
+ - PostgraduateMSc and PhD by researchAdmissionsFeesPostgraduate awardsFacilitiesPractical informationContactsMSc in High Performance ComputingCourse ModulesFacilitiesContactMSc in Quantum Fields, Strings and GravityContactFacilitiesFees
+ - MSc and PhD by researchAdmissionsFeesPostgraduate awardsFacilitiesPractical informationContacts
+ - Admissions
+ - Fees
+ - Postgraduate awards
+ - Facilities
+ - Practical information
+ - Contacts
+ - MSc in High Performance ComputingCourse ModulesFacilitiesContact
+ - Course Modules
+ - Facilities
+ - Contact
+ - MSc in Quantum Fields, Strings and GravityContactFacilitiesFees
+ - Contact
+ - Facilities
+ - Fees
+
+Header: School of Mathematics Navigation
+
+Header: Sitemap
+
+Header: Contact Us
+Text: mathdep@maths.tcd.ie
+
+Header: Language
+Text: Gaeilge(Baile)
+
+Header: Our Location
+
+Header: You are here
+Text: School of Mathematics>Courses>Undergraduate>Prospective students>Single Honors Mathematics
+
+Header: Follow us on social media
+List:
+ - Twitter
+
+Header: Site Footer Navigation
+List:
+ - Home
+ - Sitemap
+ - Contact
+
+Header: Follow Trinity on social media
+List:
+ - Trinity iTunes U
+ - Trinity YouTube
+ - Trinity Facebook
+ - Trinity Twitter
+ - Trinity LinkedIn
+ - Trinity Instagram
+
+Header: Our Associations and Charters
+Text: 
+

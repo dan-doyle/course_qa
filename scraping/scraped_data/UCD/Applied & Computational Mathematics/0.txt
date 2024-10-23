@@ -1,0 +1,148 @@
+Why is this course for me?
+If you enjoy studying Mathematics for the Leaving Certificate, Applied & Computational Mathematics at UCD will train you in the essential mathematical and computational skills in modelling, analysis and simulation needed to solve problems arising throughout the physical and life sciences, engineering, business and finance sectors. Today’s challenges faced by science and engineering are so complex that they can be analysed and solved only through mathematical and computational modelling. Mathematical models create representations of complex real-world phenomena in a precise, quantitative way. Fundamental insights can then be obtained by analysing these models through a combination of mathematical analysis and computational simulation. Outside the traditional spheres of science and engineering, mathematical modelling and simulation techniques are increasingly used in the social sciences, communication, business and finance sectors.
+Information on all our courses including pathways, internships and careers information is available in the UCD Science Undergraduate Courses Entry 2025 Brochure (PDF).
+
+[BREAK]
+
+Course Pathways
+Click here to Download Course Pathways document.
+
+[BREAK]
+
+What Will I Study?
+Applied & Computational Mathematics is one of the degree subjects available through the Mathematics stream in the common entry Science course.
+Students study similar modules for all degree subjects in the Mathematics stream in first year and will study modules for a minimum of two degree subjects in second year. At the end of second year, students choose their degree subject. As we offer a number of degree subjects in each stream, students have a number of similar degree subjects to choose from and if a degree subject is oversubscribed, places are allocated on a competitive basis. For more information on choosing a degree subject at the end of Second Year, visit the Mathematics stream page.
+This is a sample set of modules that an Applied & Computational Mathematics student could study each year in UCD.
+First Year
+Scientific Enquiry • Introduction to Applied & Computational Mathematics • Calculus in the Mathematical and Physical Sciences • Applications of Differential Equations • Linear Algebra in the Mathematical and Physical Sciences • Statistical Modelling • Mathematical Analysis • Numbers & Functions • Option Modules • Elective Module 
+Second Year
+Computational Science • Classical Mechanics • Calculus of Several Variables • Introduction to Probability • Oscillations & Waves • Vector Calculus • + modules for 1 other Subject • Elective Modules
+Third Year
+Advanced Computational Science • Advanced Mathematical Methods • Complex Analysis • Partial Differential Equations • Mathematical Biology • Metric Spaces • Numerical Methods • Dynamical Systems • Option Modules • Elective modules
+Fourth Year
+Research Project • Mathematics of Complex Networks • Mathematics of Machine Learning • General Relativity & Black Holes • Mathematical Fluid Dynamics • Option Modules 
+Timetables & Assessment
+Each student will have their own timetable based on their individual module selection. This is a full-time course and classes may include lectures, practicals and tutorials, depending on the subjects. Students will also be expected to study independently (autonomous student learning). Assessment varies with each module but may comprise continuous assessment of practicals, written exams and online learning activities.
+
+[BREAK]
+
+International Study Opportunities
+Students may apply to study abroad for a trimester in third year in partner institutions internationally.
+
+[BREAK]
+
+Career & Graduate Study Opportunities
+Graduates with training in Applied & Computational Mathematics work in fields as diverse as analytics and forecasting, meteorology, energy systems, electronics, biomedical applications and bio-information, finance, pharmaceutical industry, environmental agencies and companies, and computing in business, technology, research, and academia.
+ 
+
+[BREAK]
+
+
+
+
+[BREAK]
+
+Other Entry Routes
+Level 5/6 QQI-FET
+Open Learning Entry Route
+Mature Entry Route
+DARE Entry Route
+HEAR Entry Route
+University Access
+
+[BREAK]
+
+Further Information & Contact Details
+UCD Science Office
+
+You can contact the UCD Science Office in the following ways:
+
+
+
+Submit your query using our dedicated Contact Form.
+
+Drop into the office in the UCD O'Brien Centre for Science, Science East, Room E1.09. Our office opening hours are 10am to 4pm (during term time).
+
+[BREAK]
+
+View All Modules
+Below is a list of all modules offered for this degree in the current academic year. Click on the module to discover what you will learn in the module, how you will learn and assessment feedback profile amongst other information.
+Incoming Stage 1 undergraduates can usually select an Elective in the Spring Trimester. Most continuing undergraduate students can select up to two Elective modules (10 Credits) per stage. There is also the possibility to take up to 10 extra Elective credits.
+Trimester Credits
+Stage 2 Core Modules
+ACM20030 Computational Science Autumn  5
+ACM20050 Classical Mechanics Autumn  5
+MATH20060 Calculus of Several Variables Autumn  5
+STAT20110 Introduction to Probability Autumn  5
+ACM20060 Oscillations and Waves Spring  5
+ACM20150 Vector Integral & Differential Calculus Spring  5
+Stage 2 Options - A) Min 0 of:
+For students progressing to a degree in Applied & Computational Mathematics, the modules MATH20300 and STAT20100 must be taken in either Stage 2 or Stage 3
+MATH20300 Linear Algebra 2 for the Mathematical Sciences Autumn  5
+STAT20100 Inferential Statistics Spring  5
+Stage 2 Options - B) Min 0 of:
+If not previously taken in Stage 1, students enrolled to Stage 2 Applied & Computational Mathematics must take MATH 10320 in Stage 2.
+MATH10320 Mathematical Analysis Spring  5
+Stage 2 Options - C) Min 0 of:
+Additional modules can be taken from the options below. Alternatively, modules can be taken from the BSc programme or, students can select 10 credits from elective modules.
+STAT20230 Modern Regression Analysis Autumn  5
+MATH20310 Groups, Rings and Fields Spring  5
+Stage 3 Core Modules
+ACM30130 Advanced Computational Science Autumn  5
+ACM30190 Dynamical Systems Autumn  5
+ACM30220 Partial Differential Equations Autumn  5
+ACM30020 Applied Analysis Spring  5
+ACM30140 Numerical Methods for PDEs Spring  5
+MATH30040 Complex Analysis Spring  5
+Stage 3 Options - A) Min 0 of:
+If not previously taken in Stage 2, students must take MATH20310, MATH20300, and STAT20100 in Stage 3.
+MATH20300 Linear Algebra 2 for the Mathematical Sciences Autumn  5
+MATH20310 Groups, Rings and Fields Spring  5
+STAT20100 Inferential Statistics Spring  5
+Stage 3 Options - B) Min 0 of:
+Students must select a minimum of 20 credits of options in Stage 3. If not previously taken in Stage 2 these options may need to include MATH20310, MATH20300, or STAT20100. Otherwise, all Stage 3 option modules must be taken from the list below.
+MATH30090 Metric Spaces Autumn  5
+PHYC30020 Classical Mechanics and Relativity Autumn  5
+STAT20230 Modern Regression Analysis Autumn  5
+STAT30090 Models - Stochastic Models Autumn  5
+ACM30090 Mathematical Biology Spring  5
+ACM30110 Advanced Computational Finance Spring  10
+ACM30200 Mathematical Fluid Dynamics I Spring  5
+ACM30210 Foundations of Quantum Theory Spring  5
+MATH30250 Cryptography: Theory & Practice Spring  5
+Stage 4 Core Modules
+ACM40980 Research Project 2 Trimester duration (Aut-Spr)  10
+ACM40690 Applied Complex Variables Autumn  5
+Stage 4 Options - B) Min 9 of:
+Students should select at least 9 modules from the list below. Please note that students who successfully completed SCI30080 will be registered by the School to the module. Additional options may be selected, subject to the approval by the program director of ACM and depending on timetable and availability of places. Students take MATH30340 subject to resourcing and approval of module coordinator.
+ACM40010 Electrodynamics & Gauge Theory Autumn  5
+ACM40070 Math Fluid Dynamics II Autumn  5
+ACM40750 Gen Relativity & Black Holes Autumn  5
+ACM41010 Math of Sust & Environment Autumn  5
+ACM41020 Maths of Machine Learning Autumn  5
+MATH30340 Peer-Assisted Tutoring Autumn  5
+MATH30360 Measure Theory and Integration Autumn  5
+SCI30080 Professional Placement-Science Autumn  5
+STAT30010 Time Series Autumn  5
+ACM40890 Advanced Fluid Mechanics Spring  5
+ACM41030 Optimization Algorithms Spring  5
+ACM41040 GR and Gravitational Waves Spring  5
+MATH30250 Cryptography: Theory & Practice Spring  5
+MATH30370 Markov Chains Spring  5
+MATH40480 Probability Theory Spring  5
+MATH40830 Maths of Quantum Computation Spring  5
+STAT40150 Multivariate Analysis Spring  5
+
+[BREAK]
+
+Testimonial
+After my first Applied & Computational Mathematics class, I knew it was the right choice for me. The chance to study the mechanics and structure of Mathematics and learn how to apply it to not just Physics and Computer Science but to a wide range of other fields was thrilling. That, along with my time spent as a class representative, was so rewarding; getting to organise events, trips and hoodies for my class. As well as this, UCD Science gave me the opportunity to spend a trimester studying abroad in California, broadening my perspective and giving me a more varied education.
+PJ Nee, Graduate
+
+[BREAK]
+
+
+
+
+[BREAK]
+

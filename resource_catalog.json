@@ -1,0 +1,20 @@
+[
+    {
+        "university": "UCD",
+        "courses": {
+            "Applied & Computational Mathematics": ["https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=APS1"],
+            "Financial Mathematics": ["https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=MMCA"],
+            "Mathematics": ["https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=MMS1"],
+            "Statistics": ["https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=SAS1"]
+        }
+    },
+    {
+        "university": "TCD",
+        "courses": {
+            "Mathematics": [
+            "https://www.tcd.ie/courses/undergraduate/courses/mathematics/",
+            "https://www.maths.tcd.ie/undergraduate/mod-mathematics/"
+            ]
+        }
+    }
+]

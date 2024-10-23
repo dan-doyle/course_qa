@@ -1,0 +1,139 @@
+Why is this course for me?
+Do you have a curious mindset and a thirst for knowledge about the world around you? This course is for you! Statistics is the science of transforming data into knowledge and understanding, and provides a principled approach to making data-informed decisions. As we live through a data revolution, with every sector of the economy, science, and society routinely producing vast amounts of data, the demand for data analytic skills is higher than ever. From finance to healthcare, tech to sports, expertise in statistics is essential for shaping the future of these industries.
+At UCD, Statistics goes beyond simply teaching students how to use data analytics methods and algorithms. We also focus on providing a comprehensive understanding of the underlying mathematical principles behind statistical analyses. By combining methods, theory, programming, and data from real-world applications, our graduates are equipped not just to use existing data analytics tools, but to develop new ones as well. This is a highly sought-after mastery, given the fast-paced, ever-changing nature of the data science field. With this degree you will be part of the statisticians and data scientists of the future who will shape how data are employed in society, sciences, and economy.
+Information on all our courses including pathways, internships and careers information is available in the UCD Science Undergraduate Courses Entry 2025 Brochure (PDF).
+
+[BREAK]
+
+Course Pathways
+Click here to Download Course Pathways document.
+
+[BREAK]
+
+What Will I Study?
+Students study similar modules for all degree subjects in the Mathematics stream in first year and will study modules for a minimum of two degree subjects in second year. At the end of second year, students choose their degree subject. As we offer a number of degree subjects in each stream, students have a number of similar degree subjects to choose from and if a degree subject is oversubscribed, places are allocated on a competitive basis. For more information on choosing a degree subject at the end of Second Year, visit the Mathematics stream page.
+This is a sample set of modules that a Statistics student could study each year in UCD. 
+First Year
+Scientific Enquiry • Introduction to Applied & Computational Mathematics • Calculus in the Mathematical and Physical Sciences • Applications of Differential Equations • Linear Algebra in the Mathematical and Physical Sciences • Statistical Modelling • Mathematical Analysis • Numbers & Functions • Option Modules • Elective Module
+Second Year
+Computational Science • Calculus of Several Variables • Linear Algebra in the Mathematical Sciences • Introduction to Probability • Modern Regression Analysis • Inferential Statistics • Introduction to Bayesian Analysis • + modules for 1 other Science Subject • Elective Modules 
+Third Year
+Time Series Analysis • Models - Survival • Models - Stochastic Models • Data Programming with R • Design of Experiments • Advanced Predictive Analytics • Statistical Machine Learning • Nonparametric Statistics • Option Modules including Actuarial Statistics and Data Programming with Python • Elective Modules
+Fourth Year
+Research Project in Statistics and Data Science • Bayesian Data Analysis • Multivariate Data Analysis • Survey Sampling • Applied Matrix Theory • Models - Survival • Monte Carlo Inference • Option Modules including Machine Learning & AI and Statistical Network Analysis
+
+[BREAK]
+
+International Study Opportunities
+Students may apply to study abroad for a trimester in third year in partner institutions internationally.
+
+[BREAK]
+
+Career & Graduate Study Opportunities
+With a degree in statistics, you will acquire the necessary skills to unlock insights from complex data, and steer crucial decisions across a diverse range of sectors. As a statistician, you will be highly valued across a broad spectrum of fields, such as healthcare, business, bioscience, finance, climate science, economics, sports analytics, education, and government. A degree in Statistics also opens doors to graduate studies in both taught and research programmes.
+
+[BREAK]
+
+
+
+
+[BREAK]
+
+Other Entry Routes
+Level 5/6 QQI-FET
+Open Learning Entry Route
+Mature Entry Route
+DARE Entry Route
+HEAR Entry Route
+University Access
+
+[BREAK]
+
+Further Information & Contact Details
+UCD Science Office
+
+You can contact the UCD Science Office in the following ways:
+
+
+
+Submit your query using our dedicated Contact Form.
+
+Drop into the office in the UCD O'Brien Centre for Science, Science East, Room E1.09. Our office opening hours are 10am to 4pm (during term time).
+
+[BREAK]
+
+View All Modules
+Below is a list of all modules offered for this degree in the current academic year. Click on the module to discover what you will learn in the module, how you will learn and assessment feedback profile amongst other information.
+Incoming Stage 1 undergraduates can usually select an Elective in the Spring Trimester. Most continuing undergraduate students can select up to two Elective modules (10 Credits) per stage. There is also the possibility to take up to 10 extra Elective credits.
+Trimester Credits
+Stage 2 Core Modules
+ACM20030 Computational Science Autumn  5
+MATH20060 Calculus of Several Variables Autumn  5
+MATH20300 Linear Algebra 2 for the Mathematical Sciences Autumn  5
+STAT20110 Introduction to Probability Autumn  5
+STAT20230 Modern Regression Analysis Autumn  5
+STAT20100 Inferential Statistics Spring  5
+STAT20180 Introduction to Bayesian Analysis Spring  5
+Stage 2 Options - A) Min 0 of:
+Students must register to a minimum of 50 Programme Credits (Core/Options). Students may register to 10 Elective credits or select additional Option modules from the list below in order to fulfill their Stage requirements.
+MATH20150 Graphs and Networks Autumn  5
+ACM20150 Vector Integral & Differential Calculus Spring  5
+MATH20260 The Mathematics of Google Spring  5
+MATH20270 Theory of Games Spring  5
+Stage 2 Options - B) Min 0 of:
+If not previously taken in Stage 1, students enrolled to Stage 2 Statistics must take MATH10320.
+MATH10320 Mathematical Analysis Spring  5
+Stage 3 Core Modules
+STAT30010 Time Series Autumn  5
+STAT30080 Models - Survival Models Autumn  5
+STAT30090 Models - Stochastic Models Autumn  5
+STAT30340 Data Programming with R Autumn  5
+STAT41020 Survey Sampling Autumn  5
+STAT30250 Advanced Predictive Analytics Spring  5
+STAT30270 Statistical Machine Learning Spring  5
+STAT40080 Nonparametric Statistics Spring  5
+Stage 3 Options - A) Min 2 of:
+Students should select 10 credits from this list.
+ACM30080 PDEs in Financial Maths Autumn  5
+ACM41020 Maths of Machine Learning Autumn  5
+STAT40020 Actuarial Statistics I Autumn  5
+STAT40800 Data Prog with Python (online) Autumn  5
+MATH30380 Financial Mathematics Foundations Spring  5
+STAT40070 Actuarial Statistics II Spring  5
+Stage 4 Core Modules
+MATH40550 Applied Matrix Theory Autumn  5
+STAT40400 Monte Carlo Inference Autumn  5
+STAT41020 Survey Sampling Autumn  5
+STAT41070 Bayesian Data Analysis Autumn  5
+STAT40150 Multivariate Analysis Spring  5
+STAT40880 Research Project - Stats & Data Sc Spring  5
+Stage 4 Options - A) Min 5 of:
+Students should select at least 5 options from the list below. Please note that students who successfully completed SCI30080 will be registered by the School to the module.
+ACM30080 PDEs in Financial Maths Autumn  5
+ACM30130 Advanced Computational Science Autumn  5
+ACM41020 Maths of Machine Learning Autumn  5
+MATH30360 Measure Theory and Integration Autumn  5
+SCI30080 Professional Placement-Science Autumn  5
+STAT40020 Actuarial Statistics I Autumn  5
+STAT40800 Data Prog with Python (online) Autumn  5
+COMP30930 Optimisation Spring  5
+COMP40725 Introduction to Relational Databases and SQL Programming Spring  10
+MATH30380 Financial Mathematics Foundations Spring  5
+MATH40480 Probability Theory Spring  5
+STAT40070 Actuarial Statistics II Spring  5
+STAT40970 Machine Learning & AI (online) Spring  5
+STAT41010 Stat Network Analysis Spring  5
+
+[BREAK]
+
+Testimonial
+UCD gave me the flexibility to see what type of Maths subject I enjoyed the most. I was able to try Physics, Mathematics, Statistics and even Chemistry – before deciding to major in Statistics. I love getting to see Mathematics applied to real-world data and establishing patterns and reasonings behind different outcomes. I am also Secretary of the Trampoline Club, which I joined back in first year and have made some of my closest friends through the club! In my summer of third year, I completed an internship in data analytics and after I graduated, I started work as a data analyst.
+Emer Clune, Graduate
+
+[BREAK]
+
+
+
+
+[BREAK]
+

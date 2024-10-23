@@ -1,0 +1,28 @@
+# Configs
+config.json
+
+# Ignore macOS system files
+.DS_Store
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Keep weight file folders but not their contents 
+
+!llm/llama/hf_model/
+llm/llama/hf_model/*
+
+!llm/llama/mlx_model/
+llm/llama/mlx_model/*
+
+!llm/embed/weights/
+llm/embed/weights/*
+
+
+# Other
+
+course-env/
+llm/lora
+llm/mlx-lora-model
