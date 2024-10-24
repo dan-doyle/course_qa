@@ -7,13 +7,12 @@
 
 # Objectives
 
-- Question answering chatbot about undergrad courses in UCD, Trinity College Dublin and Dublin City University. MVP version has just Maths courses and all variants of maths but we hope to expand both the number of courses and universities in the knowledge base.
-- Usually students are comparing courses within universities, so we want to architect it with this in mind
-    - Perform a write-up below on this point where we give an example, like 'what is the focus on applied versus theoretical maths in the courses between UCD and Trinity College?'
+- Develop a question-answering chatbot focused on undergraduate courses at UCD, Trinity College Dublin, and Dublin City University. The current MVP covers only Maths courses and their variants, but the goal is to expand both the range of courses and universities included in the knowledge base.
+- As students often compare courses within and across universities, the system should be designed with these comparative queries in mind. For example, it should excel at answering questions like, "What is the focus on applied versus theoretical maths between UCD and Trinity College courses?".
 
 ## Technical objectives
-- Build an information retrieval system leveraging a lightweight LLM separate from the main 'chatbot' acting as an intermediary to retrieve information. This lightweight LLM which can receive conversational context and pose information requests to the information store, the results of which requests can inform the main chatbot's response.
-- Balance the development to make its set-up friendly to development locally on an Apple product to leverage the use of Apple Silicon. Due to this limitation the low latency of a response is a factor not a primary aim.
+- Build an information retrieval system using a lightweight LLM that acts as an intermediary between the main chatbot and the information store. This lightweight LLM will receive conversational context, retrieve relevant information, and help inform the chatbot's responses.
+- Optimize the development process to ensure it can be done efficiently on Apple devices, leveraging Apple Silicon. While low latency is important, it is not the primary goal due to these technical constraints.
 
 # Set-up
 
